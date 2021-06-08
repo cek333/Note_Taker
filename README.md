@@ -4,4 +4,4 @@ The browser/front-end code was provided. My task was to implement the Express se
 
 ![screenshot of application](readme/note_taker_screenshot.png)
 
-The app was then deployed to heroku. You can view it [here](https://obscure-spire-90740.herokuapp.com/).
+~~The app was then deployed to heroku. You can view it here.~~ __(Mothballed)__
